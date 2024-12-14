@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Simple To-Do Extension",
+    "description": "Manage your to-do list directly from your Chrome browser.",
+    "version": "1.0",
+    "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png",
+    "default_title": "To-Do List"
+    },
+    "permissions": ["storage"]
+  }
+  
